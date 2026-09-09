@@ -167,5 +167,5 @@ Defensive check would be if length(heights) == length(weights)
 ## Submission Checklist
 
 - [X] Both your name and your partner's name are in the `author` field at the top.
-- [ ] Click **Render** in RStudio and verify the HTML compiles cleanly.
-- [ ] Commit and push your changes to your GitHub repository.
+- [X] Click **Render** in RStudio and verify the HTML compiles cleanly.
+- [X] Commit and push your changes to your GitHub repository.
